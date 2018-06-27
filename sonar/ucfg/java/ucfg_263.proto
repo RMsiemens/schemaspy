@@ -1,0 +1,36 @@
+
+Vorg.schemaspy.model.Database#getQuotedIdentifier(Ljava/lang/String;)Ljava/lang/String;
+__unknown_file (id"5*’
+1b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.javaí í("l
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.javaí í(
+
+id*ú
+2b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.javaé é("ƒ
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.javaé é(&%2Rorg.schemaspy.model.Database#quoteIdentifier(Ljava/lang/String;)Ljava/lang/String;"
+
+id"l
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.javaé é('
+
+%2*è
+4b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.javaä3 ä(Aù
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.javaä3 ä(P%1+java.util.Set#contains(Ljava/lang/Object;)Z"
+
+id*
+2
+1*π
+5b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.javaà à(5ƒ
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.javaà à(C%0Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"
+
+id*	
+2
+4
+1

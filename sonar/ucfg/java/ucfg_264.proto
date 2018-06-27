@@ -1,0 +1,31 @@
+
+Rorg.schemaspy.model.Database#quoteIdentifier(Ljava/lang/String;)Ljava/lang/String;
+__unknown_file (id"1*±
+1b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.java– –("°
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.java– –(?%0Fjava.sql.DatabaseMetaData#getIdentifierQuoteString()Ljava/lang/String;›
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.java– –(F%1)java.lang.String#trim()Ljava/lang/String;"
+
+%0y
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.java– –(Gquote__id"
+
+%1…
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.java— —(%2__concat"	
+
+quote"
+
+id…
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.java— —(!%3__concat"
+
+%2"	
+
+quote"l
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/Database.java— —("
+
+%3

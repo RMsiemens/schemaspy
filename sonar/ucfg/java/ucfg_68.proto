@@ -1,0 +1,18 @@
+
+7org.schemaspy.Config#getColumnDetails()Ljava/util/List;
+__unknown_file ("2"1*Å
+1Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaË Ë("d
+Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaË Ë(
+""*È
+2Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaÈ È(º
+Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaÈ È(8%0Dorg.schemaspy.Config#pullParam(Ljava/lang/String;)Ljava/lang/String;"
+-columndetails¤
+Z
+N/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/Config.javaÈ È(9%1:org.schemaspy.Config#setColumnDetails(Ljava/lang/String;)V"
+
+%0*
+1

@@ -1,0 +1,21 @@
+
+€org.schemaspy.view.HtmlColumnsPage$ByTypeComparator#compare(Lorg/schemaspy/model/TableColumn;Lorg/schemaspy/model/TableColumn;)I
+__unknown_file (column1column2"3*á
+1h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlColumnsPage.javaº º("r
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlColumnsPage.javaº º(
+""*’
+3h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlColumnsPage.java¶ ¶(¯
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlColumnsPage.java¶ ¶(*%0?org.schemaspy.model.TableColumn#getTypeName()Ljava/lang/String;¯
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlColumnsPage.java¶? ¶(T%1?org.schemaspy.model.TableColumn#getTypeName()Ljava/lang/String;¹
+h
+\/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlColumnsPage.java¶ ¶(U%29java.lang.String#compareToIgnoreCase(Ljava/lang/String;)I"
+
+%0"
+
+%1*
+1
